@@ -37,12 +37,13 @@ body{
 }
 	#main-content{
 		background:#999;
-		width:1000px;
+		width:996px;
 		min-height:300px;
+		padding:0 2px 0 2px;
 		margin:0 auto;
 	}
 	.div-container{
-		width:245px;
+		width:240px;
 		min-height:300px;
 		float:left;
 		margin:0 auto;
