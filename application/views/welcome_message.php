@@ -16,7 +16,7 @@ body{
 	height:78px;
 }
 	#main-header{
-		width:1030px;
+		width:1000px;
 		height:78px;
 		margin:0 auto;
 	}
@@ -26,7 +26,7 @@ body{
 	height:24px;
 }
 	#main-menu{
-		width:1030px;
+		width:1000px;
 		height:24px;
 		margin:0 auto;
 	}
@@ -37,12 +37,12 @@ body{
 }
 	#main-content{
 		background:#999;
-		width:1030px;
+		width:1000px;
 		min-height:300px;
 		margin:0 auto;
 	}
 	.div-container{
-		width:237px;
+		width:240px;
 		min-height:300px;
 		float:left;
 	}
