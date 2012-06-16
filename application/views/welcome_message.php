@@ -34,6 +34,7 @@ body{
 	background:#999;
 	width:100%;
 	min-height:300px;
+	margin-top:5px;
 }
 	#main-content{
 		background:#999;
@@ -43,6 +44,12 @@ body{
 	}
 	#div1{
 		background:#000;
+		width:237px;
+		min-height:300px;
+		float:left;
+	}
+	#div2{
+		background:#e4e4e4;
 		width:237px;
 		min-height:300px;
 		float:left;
@@ -69,6 +76,9 @@ body{
 <div id="content">
 	<div id="main-menu">
 		<div id="div1">
+	
+		</div>
+		<div id="div2">
 	
 		</div>
 	</div>
