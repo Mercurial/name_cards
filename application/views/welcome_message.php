@@ -31,7 +31,6 @@ body{
 		margin:0 auto;
 	}
 #content{
-	background:#999;
 	width:100%;
 	min-height:300px;
 	margin-top:5px;
@@ -48,8 +47,15 @@ body{
 		min-height:300px;
 		float:left;
 	}
-	#div2{
+	#div2, #div4{
 		background:#e4e4e4;
+		width:237px;
+		min-height:300px;
+		float:left;
+	}
+	
+	#div3{
+		background:#ecebeb;
 		width:237px;
 		min-height:300px;
 		float:left;
@@ -79,6 +85,12 @@ body{
 	
 		</div>
 		<div id="div2">
+	
+		</div>
+		<div id="div3">
+	
+		</div>
+		<div id="div4">
 	
 		</div>
 	</div>
