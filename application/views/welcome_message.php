@@ -46,7 +46,7 @@ body{
 		min-height:300px;
 		float:left;
 	}
-	.div-margin{ margin-right:10px; }
+	.div-margin-right{ margin-right:10px; }
 	.div-black{ background:#000; }
 	.div-gray{ background:#e4e4e4; }
 	.div-white{ background:#ecebeb; }
@@ -71,7 +71,7 @@ body{
 </div>
 
 <div id="content">
-	<div id="main-menu">
+	<div id="main-content">
 		<div class="div-container div-black div-margin-right">
 	
 		</div>
