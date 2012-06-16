@@ -35,11 +35,16 @@ body{
 	width:100%;
 	min-height:300px;
 }
+	#main-content{
+		background:#999;
+		width:1030px;
+		min-height:300px;
+		margin:0 auto;
+	}
 	#div1{
 		background:#000;
 		width:237px;
 		min-height:300px;
-		margin:0 auto;
 		float:left;
 	}
 #footer{
@@ -62,8 +67,10 @@ body{
 </div>
 
 <div id="content">
-	<div id="div1">
+	<div id="main-menu">
+		<div id="div1">
 	
+		</div>
 	</div>
 </div>
 
