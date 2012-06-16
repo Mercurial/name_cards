@@ -42,7 +42,7 @@ body{
 		margin:0 auto;
 	}
 	.div-container{
-		width:240px;
+		width:245px;
 		min-height:300px;
 		float:left;
 		margin:0 auto;
