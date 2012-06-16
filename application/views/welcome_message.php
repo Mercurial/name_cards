@@ -33,7 +33,7 @@ body{
 #content{
 	width:100%;
 	min-height:300px;
-	margin-top:5px;
+	margin-top:2px;
 }
 	#main-content{
 		background:#999;
@@ -41,25 +41,16 @@ body{
 		min-height:300px;
 		margin:0 auto;
 	}
-	#div1{
-		background:#000;
+	.div-container{
 		width:237px;
 		min-height:300px;
 		float:left;
 	}
-	#div2, #div4{
-		background:#e4e4e4;
-		width:237px;
-		min-height:300px;
-		float:left;
-	}
+	.div-margin{ margin-right:5px; }
+	.div1{ background:#000; }
+	.div2, .div4{ background:#e4e4e4; }
+	.div3{ background:#ecebeb; }
 	
-	#div3{
-		background:#ecebeb;
-		width:237px;
-		min-height:300px;
-		float:left;
-	}
 #footer{
 	background:#555;
 	width:100%;
@@ -81,16 +72,16 @@ body{
 
 <div id="content">
 	<div id="main-menu">
-		<div id="div1">
+		<div class="div-container div1 div-margin">
 	
 		</div>
-		<div id="div2">
+		<div class="div-container div2 div-margin">
 	
 		</div>
-		<div id="div3">
+		<div class="div-container div3 div-margin">
 	
 		</div>
-		<div id="div4">
+		<div class="div-container div4">
 	
 		</div>
 	</div>
