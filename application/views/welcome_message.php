@@ -12,12 +12,10 @@ body{
 	font-famil:Tahoma;
 }
 #header{
-	background:#ccc;
 	width:100%;
 	height:78px;
 }
 	#main-header{
-		background:#999;
 		width:1030px;
 		height:78px;
 		margin:0 auto;
@@ -28,7 +26,6 @@ body{
 	height:24px;
 }
 	#main-menu{
-		background:#333;
 		width:1030px;
 		height:24px;
 		margin:0 auto;
@@ -36,8 +33,15 @@ body{
 #content{
 	background:#999;
 	width:100%;
-	min-height:700px;
+	min-height:300px;
 }
+	#div1{
+		background:#000;
+		width:237px;
+		min-height:300px;
+		margin:0 auto;
+		float:left;
+	}
 #footer{
 	background:#555;
 	width:100%;
@@ -58,7 +62,9 @@ body{
 </div>
 
 <div id="content">
-
+	<div id="div1">
+	
+	</div>
 </div>
 
 <div id="footer">
