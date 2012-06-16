@@ -45,6 +45,7 @@ body{
 		width:240px;
 		min-height:300px;
 		float:left;
+		margin:0 auto;
 	}
 	.div-margin-right{ margin-right:10px; }
 	.div-black{ background:#000; }
@@ -56,6 +57,8 @@ body{
 	width:100%;
 	height:100px;
 }
+.clear-float { clear:both; }
+
 </style>
 </head>
 <body>
@@ -84,6 +87,7 @@ body{
 		<div class="div-container div-gray">
 	
 		</div>
+		<div class="clear-float"></div>
 	</div>
 </div>
 
